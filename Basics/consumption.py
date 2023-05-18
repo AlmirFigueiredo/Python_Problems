@@ -1,0 +1,1 @@
+print(f'{float(input())/(float(input())):.3f} km/l')
